@@ -29,9 +29,17 @@ SQL Server Management Studio
 ![1C](https://github.com/techcoll/Securing-Azure-SQL-Database/assets/107801057/7d8a7f14-89fd-412c-bf59-e6adc56f804a)
 
 ## Steps 2
-*Ref : Refused login from a public IP address because IP  has not been added to the rule*
+*Ref A : Refused login from a public IP address because IP  has not been added to the rule*
 ![2a](https://github.com/techcoll/Securing-Azure-SQL-Database/assets/107801057/4998f4d9-d32a-4cee-af7c-4f12c1f9b878)
 
+*Ref B :limit network access to your Azure SQL Database by utilizing server-level firewall IP rules and virtual network access*
+![image](https://github.com/techcoll/Securing-Azure-SQL-Database/assets/107801057/f941e963-bbca-48d1-9bd5-4585fec96386)
 
+*Ref C : Configured database to use private IP instead of public IP*
+![2d](https://github.com/techcoll/Securing-Azure-SQL-Database/assets/107801057/fd674323-b5a8-4b93-810e-2fb3a904ad31)
+
+
+## Steps 3
+*Ref A : Refused login from a public IP address because IP  has not been added to the rule*
 
 

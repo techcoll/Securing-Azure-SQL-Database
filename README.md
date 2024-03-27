@@ -40,6 +40,14 @@ SQL Server Management Studio
 
 
 ## Steps 3
-*Ref A : Refused login from a public IP address because IP  has not been added to the rule*
+*Ref A : Enable Auditing and Temporal Tables to monitor executed queries and changes to your data*
+![image](https://github.com/techcoll/Securing-Azure-SQL-Database/assets/107801057/317a26af-aebd-481f-b98f-4a924162904a)
+![image](https://github.com/techcoll/Securing-Azure-SQL-Database/assets/107801057/21873e59-95f0-4ee2-9289-1e5c57438adf)
+
+## Steps 4
+*Ref A : configure a backup policy for your Azure SQL Database*
+![image](https://github.com/techcoll/Securing-Azure-SQL-Database/assets/107801057/817bdeb5-1447-46e3-b042-234a0e6342a0)
+
+
 
 
